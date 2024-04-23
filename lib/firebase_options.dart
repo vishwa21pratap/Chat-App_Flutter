@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC5IMGDYQR0SfEyFcFkdhPy66uzYyU9Bxg',
+    apiKey: 'Type your API key here',
     appId: '1:914435781453:android:117db0af04235172837d04',
     messagingSenderId: '914435781453',
     projectId: 'chatapptute-f8f94',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCkRYudCh7cFOC8PMHlU8xGqhgjxiIFeG4',
+    apiKey: 'Type your API key here',
     appId: '1:914435781453:ios:603974f1ba9a9e1e837d04',
     messagingSenderId: '914435781453',
     projectId: 'chatapptute-f8f94',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCkRYudCh7cFOC8PMHlU8xGqhgjxiIFeG4',
+    apiKey: 'Type your API key here',
     appId: '1:914435781453:ios:e9676426211a25af837d04',
     messagingSenderId: '914435781453',
     projectId: 'chatapptute-f8f94',
